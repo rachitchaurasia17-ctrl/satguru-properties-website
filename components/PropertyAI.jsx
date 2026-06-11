@@ -11,7 +11,7 @@ const SYSTEM_PROMPT = `You are Property AI, the digital concierge for Satguru Pr
 
 Firm facts:
 - Firm: Satguru Properties
-- Office: SCO 1, 2nd Floor, Sector 79, Sahibzada Ajit Singh Nagar, Punjab 140308
+- Office: SCF 4, Near Satguru Complex, Baltana, Zirakpur, Punjab 140604
 - Phone: +91-00000-00000
 - GMADA empanelled, RERA registered (PB-RERA)
 - Practice: Residential, Commercial, Land/Plots, Investment Advisory, NRI Services, Title & Due Diligence
